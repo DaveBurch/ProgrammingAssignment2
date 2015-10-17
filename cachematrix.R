@@ -20,7 +20,7 @@ makeCacheMatrix <- function(x = matrix()) {
     
     # initialize the inverse matrix as NULL:
     
-    inv = NULL
+    inv <- NULL
     
     # Define a function that will assign a value for the input matrix
     # in the global environment (an environment different than the current
